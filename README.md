@@ -10,7 +10,7 @@ So, in simple terms, Rescue Rover is like a super-smart robot explorer that goes
 
 ![Getting Started](./Rover_img.jpg)
 
-System Architecture:
+<h2>System Architecture:</h2>
 
 Rescue Rover comprises several key components, including gas sensors (MQ6,
 MQ4, MQ7), an ultrasonic sensor for obstacle detection, an ESP32
@@ -21,6 +21,21 @@ integrated into a robust chassis, ensuring stability and maneuverability in dive
 ![Getting Started](./blockdiagram1.png)
 
 ![Getting Started](./blockdiagram2.png)
+
+<h2>Control and Navigation Algorithm:</h2>
+
+Rescue Rover's control system integrates a sophisticated blend of proportional- integral-derivative (PID) control and obstacle avoidance algorithms, ensuring autonomous navigation with a keen focus on maintaining a safe distance from obstacles. PID parameters undergo meticulous optimization to ensure smooth motion and precise maneuverability in various terrains and scenarios.
+Additionally, the rover offers a user-friendly interface via a custom-built
+webpage, enabling remote control functionalities. Through this interface, users can effortlessly command the rover to move forward, backward, left, and right, thereby enhancing its versatility and usability in diverse environments and
+rescue missions.
+
+
+<h2>Team Members:</h2>
+
+1. Aniket Baravkar 
+2. Rohan Kumar 
+3. Chhavi Bajpai
+4. Aditya Aryan 
 
 
 

@@ -1,7 +1,7 @@
 RESCUE ROVER: A Multi-Sensor Controlled
 System for Hazardous Environment Exploration
 
-INTRODUCTION
+<h1>Introduction</h1>
 
 Imagine you're dealing with a situation like a chemical spill in a factory or a collapsed building after an earthquake. These places can be super risky for people to enter because of toxic gases or unstable structures. That's where Rescue Rover comes in. It's like a high-tech robot hero that's built to handle these dangerous situations.
 Rescue Rover is packed with sensors and gadgets that allow it to navigate through tricky environments all by itself. It can roll over rough terrain, squeeze through tight spaces, and even climb over obstacles. And while it's doing all that, it's constantly collecting data.
